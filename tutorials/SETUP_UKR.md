@@ -35,7 +35,7 @@ conda activate my-course
 5. Інсталюйте необхідні залежні бібліотеки, які вам знадобляться для курсу, наприклад, [PuLP](https://coin-or.github.io/pulp/). Ви можете запустити все це одночасно:
 
 ```bash
-pip install pandas numpy matplotlib scikit-learn jupyter-lab pulp -y
+pip install pandas numpy matplotlib scikit-learn jupyterlab pulp
 ```
 
 6. Переконайтеся, що встановлення виконано правильно, запустивши сервер Jupyter Lab:
