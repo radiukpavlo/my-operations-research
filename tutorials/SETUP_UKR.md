@@ -60,6 +60,6 @@ print(solver_list)
 
 8. Інсталюйте Visual Studio Code з офіціного сайту за [посиланням](https://code.visualstudio.com/).
 
-9. У Visual Studio Code інсталюйте Python Extension за [посиланням](https://marketplace.visualstudio.com/items?itemName=ms-python.python).
+9. У Visual Studio Code Marketplace інсталюйте extensions [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) та [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) за посиланням.
 
 10. Підключіть Visual Studio Code до віртуального середовища `conda`, відповідно до [туторіала](https://code.visualstudio.com/docs/python/environments).
